@@ -163,7 +163,8 @@ ul {
 
 .works .worksContent{
   background-color: var(--black);
-  height: 270px;
+  height: 220px;
+  /* 270 */
   margin: 10px 0;
 }
 .works .worksContent h5{
@@ -181,7 +182,7 @@ ul {
 .works  .workContentImg{
   background-image: url(../images/4.png);
   background-repeat: no-repeat;
-  background-position: bottom;
+  background-position: 95px 130%;
   background-size: contain;
 }
 .works .worksContent p{

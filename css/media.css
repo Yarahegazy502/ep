@@ -2,10 +2,20 @@
  
 }
 @media (max-width: 991px) {
- 
+    .works .worksContent{
+        height: 270px;
+    }
+
+    .works  .workContentImg{
+        background-position: 60px 110%;
+      }
+      .works  .workContentImg p{
+        padding-right:30px ;
+      }
+      
 }
 @media (max-width: 767px) {
- 
+  
 }
 @media (max-width: 565px) {
   
